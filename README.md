@@ -6,7 +6,10 @@
 
 [Link to my CV](https://docs.google.com/document/d/1TLu1WiF2MvL1lfVybjd5N3OEvzb9qgtRZp95B3zRrok/edit?usp=sharing)
 
-Testing Documentation
+## Testing Documentation
+
+[Checklist&Bug-reports](https://github.com/HechavarriaBogdan/Checklists-and-bug-reports/blob/main/README.md)
+
 
 ## Language and Tools
 ![Postman](https://img.shields.io/badge/Postman-090909?style=for-the-badge&logo=Postman&logoColor=D2691E)
