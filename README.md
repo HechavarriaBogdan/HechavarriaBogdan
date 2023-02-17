@@ -2,7 +2,9 @@
 
 ## I'm a QA Engineer 
 
-My CV
+## MY CV
+
+![LimkInMyCV](https://docs.google.com/document/d/1TLu1WiF2MvL1lfVybjd5N3OEvzb9qgtRZp95B3zRrok/edit?usp=sharing)
 
 Testing Documentation
 
@@ -23,6 +25,8 @@ Testing Documentation
 
 ## Follow me
 ![Telegram](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HechavarriaBogdan&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
