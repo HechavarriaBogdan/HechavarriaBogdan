@@ -4,7 +4,7 @@
 
 ## MY CV
 
-![LimkInMyCV](https://docs.google.com/document/d/1TLu1WiF2MvL1lfVybjd5N3OEvzb9qgtRZp95B3zRrok/edit?usp=sharing)
+[Link to my CV](https://docs.google.com/document/d/1TLu1WiF2MvL1lfVybjd5N3OEvzb9qgtRZp95B3zRrok/edit?usp=sharing)
 
 Testing Documentation
 
