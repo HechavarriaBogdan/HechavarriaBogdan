@@ -24,7 +24,7 @@ Testing Documentation
 ![CSS](https://img.shields.io/badge/SCC(Basics)-090909?style=for-the-badge&logo=appveyor&logoColor=00FFFF)
 
 ## Follow me
-![Telegram](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=)
+[![Telegram](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=)](https://t.me/hechavarriaB)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HechavarriaBogdan&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
