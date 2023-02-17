@@ -20,7 +20,7 @@ Testing Documentation
 ![GitHub](https://img.shields.io/badge/GitHub-090909?style=for-the-badge&logo=github&logoColor=)
 ![Python](https://img.shields.io/badge/Python(Basics)-090909?style=for-the-badge&logo=python&logoColor=)
 ![JavaScript](https://img.shields.io/badge/JavaScript(Basics)-090909?style=for-the-badge&logo=Javascript&logoColor=)
-![HTML](https://img.shields.io/badge/HTML(Basics)-090909?style=for-the-badge&logo=appveyor&logoColor=800000)
+![HTML](https://img.shields.io/badge/HTML(Basics)-090909?style=for-the-badge&logo=appveyor&logoColor=2E8B57)
 ![CSS](https://img.shields.io/badge/SCC(Basics)-090909?style=for-the-badge&logo=appveyor&logoColor=00FFFF)
 
 ## Follow me
