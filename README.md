@@ -8,7 +8,7 @@
 
 ## Testing Documentation
 
-[Checklist&Bug-reports](https://github.com/HechavarriaBogdan/Checklists-and-bug-reports/blob/main/README.md)
+[Checklist&Bug-reports](https://docs.google.com/spreadsheets/d/1FgGj5NEsQKk4l9slsOmvB1HEf_2G_U4jHRpnzOgaNOY/edit?usp=sharing)
 
 
 ## Language and Tools
