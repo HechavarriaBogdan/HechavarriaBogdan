@@ -10,6 +10,8 @@
 
 [Checklist&Bug-reports](https://docs.google.com/spreadsheets/d/1FgGj5NEsQKk4l9slsOmvB1HEf_2G_U4jHRpnzOgaNOY/edit?usp=sharing)
 
+[Test-cases](https://docs.google.com/spreadsheets/d/1iTjblg1hC0v7eMX4GGy-hrf61QKgEB1qc3zK10OZIjc/edit?usp=sharing)
+
 
 ## Language and Tools
 ![Postman](https://img.shields.io/badge/Postman-090909?style=for-the-badge&logo=Postman&logoColor=D2691E)
