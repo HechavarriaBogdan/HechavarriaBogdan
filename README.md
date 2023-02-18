@@ -16,6 +16,9 @@
 
 [Postman Collections](https://github.com/HechavarriaBogdan/Collection-for-Postman.git)
 
+[SQLQueries](https://github.com/HechavarriaBogdan/SQL-Queries)
+
+
 
 
 
