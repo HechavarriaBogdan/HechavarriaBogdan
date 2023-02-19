@@ -1,10 +1,17 @@
 ![Header](https://github.com/HechavarriaBogdan/HechavarriaBogdan/blob/main/assets/QAimage.png)
 
-## I'm a QA Engineer 
 
-## MY CV
+## MY CV 
 
-[Link to my CV](https://docs.google.com/document/d/1TLu1WiF2MvL1lfVybjd5N3OEvzb9qgtRZp95B3zRrok/edit?usp=sharing)
+- [Link to my CV](https://docs.google.com/document/d/1TLu1WiF2MvL1lfVybjd5N3OEvzb9qgtRZp95B3zRrok/edit?usp=sharing)
+
+## Education documents
+
+- [Certificate of Competion of the QA Engineer Professional Training_Course](https://drive.google.com/file/d/1NdOUDqxbrGnMgfHq5qiANOF4imQCyfMP/view?usp=sharing)
+
+- [Диплом о профессиональной переподготовке по программе "Инженер по тестированию"](https://drive.google.com/file/d/1JhXT1wnmDHr3EjnJ1GZQiXtQ4KCeSeiA/view?usp=sharing)
+
+
 
 ## Testing Documentation
 
