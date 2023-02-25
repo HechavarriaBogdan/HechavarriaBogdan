@@ -3,7 +3,7 @@
 
 ## MY CV 
 
-- [Link to my CV](https://drive.google.com/file/d/1hMJ0GyXCcyZDF4M5X6zetPTp2QnEOvMD/view?usp=sharing)
+- [Link to my CV](https://drive.google.com/file/d/1rwmYhxLoB4SrKS9OhDCar9m1OQbuye8T/view?usp=sharing)
 
 ## Education documents
 
