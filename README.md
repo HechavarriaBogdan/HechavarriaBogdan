@@ -19,6 +19,8 @@
 
 - [Test-cases and Bug-reports](https://docs.google.com/spreadsheets/d/1iTjblg1hC0v7eMX4GGy-hrf61QKgEB1qc3zK10OZIjc/edit?usp=sharing)
 
+- [Game "Star Conflict": Test-cases](https://docs.google.com/spreadsheets/d/1R0acsxaAcm3Juytiqvq-dBLN3nuKHtV6EwMb248iFds/edit#gid=424948590)
+
 - [Testing REST API](https://docs.google.com/spreadsheets/d/1dzzuQZ6wE6vEA0g7guOmyTVEMkHP2L-aWX-XxyJmU_Y/edit?usp=sharing)
 
 - [Postman Collections](https://github.com/HechavarriaBogdan/Collection-for-Postman.git)
